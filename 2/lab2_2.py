@@ -1,8 +1,8 @@
-# print sound text. Insert 3 arduments as a numbers
+# count formula. Insert 3 numbers as a parametr
 
 import sys
 
-x = int(sys.argv[1])	# kilkist la-
+x = int(sys.argv[1])	# kilkist la
 y = int(sys.argv[2])	# kilkist kypletiv
 z = int(sys.argv[3])	# end symbol
 
