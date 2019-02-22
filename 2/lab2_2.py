@@ -9,7 +9,7 @@ z = int(sys.argv[3])	# end symbol
 song_string = "Everybody sing a song:"
 
 if x <= 0:
-  print "x shouldnt be 0 and positive"
+  print "x shouldnt be 0 and negative"
   quit()
 
 if z == 1:
