@@ -6,6 +6,7 @@ x = int(sys.argv[1])	# kilkist la
 y = int(sys.argv[2])	# kilkist kypletiv
 z = int(sys.argv[3])	# end symbol
 
+# My solution
 song_string = "Everybody sing a song:"
 
 if x <= 0:
